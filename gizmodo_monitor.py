@@ -100,7 +100,7 @@ def fetch_rss_feed(url: str) -> list:
         description = item.find("description")
 
         title_text = title.text if title is not None else "無題"
-        link_text = link.text.strip() if link is not None else ""
+        link_text = (link.text or "").strip() if link is not None else ""
         
         # 日時を日本時間に変換
         raw_pub_date = pub_date.text if pub_date is not None else ""
