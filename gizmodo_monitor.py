@@ -324,25 +324,22 @@ def main():
         save_state([art["link"] for art in articles])
         return
 
-    # [FIX #3] MAX_EMBEDS超過分も既読に登録し、次回の重複通知を防ぐ
-    # 送信するのはMAX_EMBEDS件までだが、既読登録はすべての新着記事に対して行う
-    new_articles.reverse()  # 時系列順（古い順）に並べ替え
+    # 時系列順（古い順）に並べ替え
+    new_articles.reverse()
 
-    embeds_to_send = []
-    for art in new_articles[:MAX_EMBEDS]:
-        embeds_to_send.append(build_embed(art))
+    batch = new_articles[:MAX_EMBEDS]
+    embeds_to_send = [build_embed(art) for art in batch]
 
     # 5. Discordへ通知
     if embeds_to_send:
         success = send_to_discord(webhook_url, embeds_to_send)
         if success:
-            # [FIX #3] 送信成功時はすべての新着URLを既読として登録する
-            all_new_links = [art["link"] for art in new_articles]
-            notified_urls.extend(all_new_links)
+            # 送信成功した分だけ既読登録する。残りは次回実行時に通知される。
+            notified_urls.extend([art["link"] for art in batch])
             save_state(notified_urls)
-            if len(new_articles) > MAX_EMBEDS:
-                log(f"新着が{len(new_articles)}件あり送信上限({MAX_EMBEDS}件)を超えたため、"
-                    f"超過分{len(new_articles) - MAX_EMBEDS}件は通知せず既読扱いにしました。")
+            remaining = len(new_articles) - len(batch)
+            if remaining > 0:
+                log(f"送信上限({MAX_EMBEDS}件)のため、残り{remaining}件は次回実行時に通知します。")
         else:
             log("Discord送信でエラーが発生したため、今回分の既読状態の更新を保留しました。", "WARNING")
 
