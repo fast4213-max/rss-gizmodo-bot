@@ -83,7 +83,8 @@
         "https://www.gizmodo.jp/article/amazon-phirips-battery-checker-charger/",
         "https://www.gizmodo.jp/article/plusminuszero-xjc-k211/",
         "https://www.gizmodo.jp/article/muji_uv_powder/",
-        "https://www.gizmodo.jp/article/kai-nadesori/"
+        "https://www.gizmodo.jp/article/kai-nadesori/",
+        "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-f7p-4k6/"
       ]
     },
     "itmedia": {
@@ -218,7 +219,8 @@
         "https://ascii.jp/elem/000/004/404/4404021/?rss",
         "https://ascii.jp/elem/000/004/404/4404544/?rss",
         "https://ascii.jp/elem/000/004/404/4404543/?rss",
-        "https://ascii.jp/elem/000/004/404/4404545/?rss"
+        "https://ascii.jp/elem/000/004/404/4404545/?rss",
+        "https://ascii.jp/elem/000/004/402/4402973/?rss"
       ]
     },
     "pcwatch": {
@@ -287,5 +289,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-23T07:30:25.215173"
+  "updated_at": "2026-05-23T07:45:20.734259"
 }
