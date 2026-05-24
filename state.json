@@ -109,7 +109,8 @@
         "https://www.gizmodo.jp/article/standard-products_rain-and-shine-umbrella/",
         "https://www.gizmodo.jp/article/nisikawa/",
         "https://www.gizmodo.jp/article/microsoft-finally-made-the-surface-laptop-you-wanted-but-its-not-for-you/",
-        "https://www.gizmodo.jp/article/serial-killer_numbers_drop/"
+        "https://www.gizmodo.jp/article/serial-killer_numbers_drop/",
+        "https://www.gizmodo.jp/article/e9483797-57e0-499f-bd29-304ccdcbb293/"
       ]
     },
     "itmedia": {
@@ -309,7 +310,14 @@
         "https://ascii.jp/elem/000/004/404/4404192/?rss",
         "https://ascii.jp/elem/000/004/404/4404502/?rss",
         "https://ascii.jp/elem/000/004/404/4404599/?rss",
-        "https://ascii.jp/elem/000/004/404/4404598/?rss"
+        "https://ascii.jp/elem/000/004/404/4404598/?rss",
+        "https://ascii.jp/elem/000/004/403/4403817/?rss",
+        "https://ascii.jp/elem/000/004/404/4404308/?rss",
+        "https://ascii.jp/elem/000/004/404/4404391/?rss",
+        "https://ascii.jp/elem/000/004/404/4404549/?rss",
+        "https://ascii.jp/elem/000/004/404/4404593/?rss",
+        "https://ascii.jp/elem/000/004/404/4404594/?rss",
+        "https://ascii.jp/elem/000/004/404/4404597/?rss"
       ]
     },
     "pcwatch": {
@@ -380,9 +388,10 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2109977.html",
         "https://k-tai.watch.impress.co.jp/docs/column/stapa/2109194.html",
         "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2110579.html",
-        "https://k-tai.watch.impress.co.jp/docs/column/minna/2111037.html"
+        "https://k-tai.watch.impress.co.jp/docs/column/minna/2111037.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2111042.html"
       ]
     }
   },
-  "updated_at": "2026-05-24T22:00:29.601901"
+  "updated_at": "2026-05-24T22:15:19.492252"
 }
