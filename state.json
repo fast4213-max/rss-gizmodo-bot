@@ -97,7 +97,8 @@
         "https://www.gizmodo.jp/article/wpc-back-protect/",
         "https://www.gizmodo.jp/article/ibanez-citizen-tstcc808/",
         "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-51t/",
-        "https://www.gizmodo.jp/article/switchbots-newest-smart-lock-has-more-biometrics-than-you-can-shake-a-stick-at/"
+        "https://www.gizmodo.jp/article/switchbots-newest-smart-lock-has-more-biometrics-than-you-can-shake-a-stick-at/",
+        "https://www.gizmodo.jp/article/foxfire_papersky_fishdom_collaboration/"
       ]
     },
     "itmedia": {
@@ -275,7 +276,9 @@
         "https://ascii.jp/elem/000/004/404/4404573/?rss",
         "https://ascii.jp/elem/000/004/404/4404570/?rss",
         "https://ascii.jp/elem/000/004/404/4404571/?rss",
-        "https://ascii.jp/elem/000/004/404/4404572/?rss"
+        "https://ascii.jp/elem/000/004/404/4404572/?rss",
+        "https://ascii.jp/elem/000/004/394/4394714/?rss",
+        "https://ascii.jp/elem/000/004/404/4404558/?rss"
       ]
     },
     "pcwatch": {
@@ -344,5 +347,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-24T04:00:28.182667"
+  "updated_at": "2026-05-24T04:15:21.265840"
 }
