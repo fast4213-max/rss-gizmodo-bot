@@ -105,7 +105,8 @@
         "https://www.gizmodo.jp/article/daiso-ear-cleaning-cam-lih/",
         "https://www.gizmodo.jp/article/renewal_special_project_sony-alpha7v_and_sandals/",
         "https://www.gizmodo.jp/article/gentos_blower_hayate-yw3/",
-        "https://www.gizmodo.jp/article/matome_outdoor-brand_gear/"
+        "https://www.gizmodo.jp/article/matome_outdoor-brand_gear/",
+        "https://www.gizmodo.jp/article/standard-products_rain-and-shine-umbrella/"
       ]
     },
     "itmedia": {
@@ -297,7 +298,10 @@
         "https://ascii.jp/elem/000/004/403/4403291/?rss",
         "https://ascii.jp/elem/000/004/403/4403662/?rss",
         "https://ascii.jp/elem/000/004/404/4404546/?rss",
-        "https://ascii.jp/elem/000/004/404/4404557/?rss"
+        "https://ascii.jp/elem/000/004/404/4404557/?rss",
+        "https://ascii.jp/elem/000/004/403/4403295/?rss",
+        "https://ascii.jp/elem/000/004/403/4403299/?rss",
+        "https://ascii.jp/elem/000/004/404/4404178/?rss"
       ]
     },
     "pcwatch": {
@@ -366,5 +370,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-24T10:00:27.462272"
+  "updated_at": "2026-05-24T10:15:21.512906"
 }
