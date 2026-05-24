@@ -93,7 +93,8 @@
         "https://www.gizmodo.jp/article/muji-parts-socks/",
         "https://www.gizmodo.jp/article/montbell-flex-water-pack-review-90p/",
         "https://www.gizmodo.jp/article/gakken-clear-seal-puzzle/",
-        "https://www.gizmodo.jp/article/oao-beams-sunlight-void-leather-sandal-review/"
+        "https://www.gizmodo.jp/article/oao-beams-sunlight-void-leather-sandal-review/",
+        "https://www.gizmodo.jp/article/wpc-back-protect/"
       ]
     },
     "itmedia": {
@@ -248,7 +249,8 @@
         "https://ascii.jp/elem/000/004/404/4404439/?rss",
         "https://ascii.jp/elem/000/004/404/4404220/?rss",
         "https://ascii.jp/elem/000/004/404/4404191/?rss",
-        "https://ascii.jp/elem/000/004/404/4404492/?rss"
+        "https://ascii.jp/elem/000/004/404/4404492/?rss",
+        "https://ascii.jp/elem/000/004/404/4404554/?rss"
       ]
     },
     "pcwatch": {
@@ -317,5 +319,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-24T01:00:27.174796"
+  "updated_at": "2026-05-24T01:15:19.053538"
 }
