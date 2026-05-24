@@ -96,7 +96,8 @@
         "https://www.gizmodo.jp/article/oao-beams-sunlight-void-leather-sandal-review/",
         "https://www.gizmodo.jp/article/wpc-back-protect/",
         "https://www.gizmodo.jp/article/ibanez-citizen-tstcc808/",
-        "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-51t/"
+        "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-51t/",
+        "https://www.gizmodo.jp/article/switchbots-newest-smart-lock-has-more-biometrics-than-you-can-shake-a-stick-at/"
       ]
     },
     "itmedia": {
@@ -260,7 +261,11 @@
         "https://ascii.jp/elem/000/004/404/4404435/?rss",
         "https://ascii.jp/elem/000/004/404/4404568/?rss",
         "https://ascii.jp/elem/000/004/404/4404567/?rss",
-        "https://ascii.jp/elem/000/004/404/4404566/?rss"
+        "https://ascii.jp/elem/000/004/404/4404566/?rss",
+        "https://ascii.jp/elem/000/004/404/4404018/?rss",
+        "https://ascii.jp/elem/000/004/404/4404506/?rss",
+        "https://ascii.jp/elem/000/004/404/4404548/?rss",
+        "https://ascii.jp/elem/000/004/404/4404556/?rss"
       ]
     },
     "pcwatch": {
@@ -329,5 +334,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-24T03:00:30.370004"
+  "updated_at": "2026-05-24T03:15:20.508371"
 }
