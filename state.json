@@ -335,7 +335,9 @@
         "https://pc.watch.impress.co.jp/docs/topic/readitnow/2111072.html",
         "https://pc.watch.impress.co.jp/docs/topic/readitnow/2111070.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111132.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111148.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111148.html",
+        "https://pc.watch.impress.co.jp/docs/column/ubuntu/2110995.html",
+        "https://pc.watch.impress.co.jp/docs/column/ubiq/2111027.html"
       ]
     },
     "ktai": {
@@ -379,5 +381,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-24T21:00:29.828878"
+  "updated_at": "2026-05-24T21:15:20.365629"
 }
