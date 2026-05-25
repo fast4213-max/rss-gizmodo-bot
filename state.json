@@ -137,7 +137,8 @@
         "https://www.gizmodo.jp/article/317204/",
         "https://www.gizmodo.jp/article/renewed-things-wallet/",
         "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-1-tq3/",
-        "https://www.gizmodo.jp/article/momentum-true-wireless-5/"
+        "https://www.gizmodo.jp/article/momentum-true-wireless-5/",
+        "https://www.gizmodo.jp/article/renewal_special_project_panasonic_drum_type_washing_machine/"
       ]
     },
     "itmedia": {
@@ -758,7 +759,9 @@
         "https://ascii.jp/elem/000/004/404/4404873/?rss",
         "https://ascii.jp/serialarticles/3001033/?rss",
         "https://ascii.jp/elem/000/004/404/4404613/?rss",
-        "https://ascii.jp/elem/000/004/403/4403664/?rss"
+        "https://ascii.jp/elem/000/004/403/4403664/?rss",
+        "https://ascii.jp/serialarticles/3001237/?rss",
+        "https://ascii.jp/elem/000/004/404/4404724/?rss"
       ]
     },
     "ascii_pc": {
@@ -822,5 +825,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-25T23:00:30.856918"
+  "updated_at": "2026-05-25T23:15:21.768458"
 }
