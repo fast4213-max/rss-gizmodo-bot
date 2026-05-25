@@ -115,7 +115,8 @@
         "https://www.gizmodo.jp/article/california-proposes-software-tax-more-suited-to-the-modern-era/",
         "https://www.gizmodo.jp/article/worst-case-scenarios-for-el-nino-are-literally-off-the-charts/",
         "https://www.gizmodo.jp/article/amds-next-big-chip-hopes-to-beat-nvidias-cpus-while-theyre-in-the-crib/",
-        "https://www.gizmodo.jp/article/ai-predict-powerball-numbers-zlv/"
+        "https://www.gizmodo.jp/article/ai-predict-powerball-numbers-zlv/",
+        "https://www.gizmodo.jp/article/metaray-bandisplay_replay/"
       ]
     },
     "itmedia": {
@@ -374,7 +375,17 @@
         "https://ascii.jp/elem/000/004/404/4404687/?rss",
         "https://ascii.jp/elem/000/004/404/4404688/?rss",
         "https://ascii.jp/elem/000/004/404/4404689/?rss",
-        "https://ascii.jp/elem/000/004/404/4404690/?rss"
+        "https://ascii.jp/elem/000/004/404/4404690/?rss",
+        "https://ascii.jp/elem/000/004/404/4404691/?rss",
+        "https://ascii.jp/elem/000/004/404/4404692/?rss",
+        "https://ascii.jp/elem/000/004/404/4404650/?rss",
+        "https://ascii.jp/elem/000/004/404/4404673/?rss",
+        "https://ascii.jp/elem/000/004/404/4404661/?rss",
+        "https://ascii.jp/elem/000/004/404/4404647/?rss",
+        "https://ascii.jp/elem/000/004/404/4404648/?rss",
+        "https://ascii.jp/elem/000/004/404/4404649/?rss",
+        "https://ascii.jp/elem/000/004/404/4404659/?rss",
+        "https://ascii.jp/elem/000/004/404/4404660/?rss"
       ]
     },
     "pcwatch": {
@@ -411,7 +422,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111208.html",
         "https://pc.watch.impress.co.jp/docs/news/2111199.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111222.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111226.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111226.html",
+        "https://pc.watch.impress.co.jp/docs/news/2111241.html"
       ]
     },
     "ktai": {
@@ -457,5 +469,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-25T03:00:30.022012"
+  "updated_at": "2026-05-25T03:15:21.556087"
 }
