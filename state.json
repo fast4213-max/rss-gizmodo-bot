@@ -135,7 +135,8 @@
         "https://www.gizmodo.jp/article/data-center/",
         "https://www.gizmodo.jp/article/bose-lifestyle-ultra-soundbar-review/",
         "https://www.gizmodo.jp/article/317204/",
-        "https://www.gizmodo.jp/article/renewed-things-wallet/"
+        "https://www.gizmodo.jp/article/renewed-things-wallet/",
+        "https://www.gizmodo.jp/article/sensor-light-ball-type-daiso-1-tq3/"
       ]
     },
     "itmedia": {
@@ -692,7 +693,17 @@
         "https://ascii.jp/elem/000/004/404/4404701/?rss",
         "https://ascii.jp/elem/000/004/404/4404807/?rss",
         "https://ascii.jp/elem/000/004/404/4404861/?rss",
-        "https://ascii.jp/elem/000/004/404/4404834/?rss"
+        "https://ascii.jp/elem/000/004/404/4404834/?rss",
+        "https://ascii.jp/serialarticles/3001270/?rss",
+        "https://ascii.jp/serialarticles/3001296/?rss",
+        "https://ascii.jp/serialarticles/3001315/?rss",
+        "https://ascii.jp/serialarticles/3001305/?rss",
+        "https://ascii.jp/serialarticles/3001282/?rss",
+        "https://ascii.jp/elem/000/004/401/4401736/?rss",
+        "https://ascii.jp/elem/000/004/403/4403800/?rss",
+        "https://ascii.jp/elem/000/004/403/4403801/?rss",
+        "https://ascii.jp/elem/000/004/403/4403995/?rss",
+        "https://ascii.jp/elem/000/004/404/4404506/?rss"
       ]
     },
     "ascii_pc": {
@@ -716,9 +727,19 @@
         "https://ascii.jp/elem/000/004/403/4403292/?rss",
         "https://ascii.jp/elem/000/004/402/4402683/?rss",
         "https://ascii.jp/elem/000/004/402/4402279/?rss",
-        "https://ascii.jp/elem/000/004/403/4403453/?rss"
+        "https://ascii.jp/elem/000/004/403/4403453/?rss",
+        "https://ascii.jp/elem/000/004/403/4403455/?rss",
+        "https://ascii.jp/elem/000/004/403/4403571/?rss",
+        "https://ascii.jp/elem/000/004/403/4403575/?rss",
+        "https://ascii.jp/elem/000/004/402/4402685/?rss",
+        "https://ascii.jp/elem/000/004/403/4403810/?rss",
+        "https://ascii.jp/elem/000/004/403/4403813/?rss",
+        "https://ascii.jp/elem/000/004/403/4403944/?rss",
+        "https://ascii.jp/elem/000/004/403/4403942/?rss",
+        "https://ascii.jp/elem/000/004/403/4403608/?rss",
+        "https://ascii.jp/elem/000/004/404/4404216/?rss"
       ]
     }
   },
-  "updated_at": "2026-05-25T14:00:31.860013"
+  "updated_at": "2026-05-25T14:15:25.058290"
 }
