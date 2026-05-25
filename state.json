@@ -117,7 +117,8 @@
         "https://www.gizmodo.jp/article/amds-next-big-chip-hopes-to-beat-nvidias-cpus-while-theyre-in-the-crib/",
         "https://www.gizmodo.jp/article/ai-predict-powerball-numbers-zlv/",
         "https://www.gizmodo.jp/article/metaray-bandisplay_replay/",
-        "https://www.gizmodo.jp/article/asus-rog-nuc-16-price-and-spec-configurations/"
+        "https://www.gizmodo.jp/article/asus-rog-nuc-16-price-and-spec-configurations/",
+        "https://www.gizmodo.jp/article/leaks-suggest-garmins-first-whoop-competitor-has-a-price-that-will-make-you-cry/"
       ]
     },
     "itmedia": {
@@ -415,7 +416,14 @@
         "https://ascii.jp/elem/000/004/404/4404722/?rss",
         "https://ascii.jp/elem/000/004/404/4404713/?rss",
         "https://ascii.jp/elem/000/004/404/4404715/?rss",
-        "https://ascii.jp/elem/000/004/404/4404716/?rss"
+        "https://ascii.jp/elem/000/004/404/4404716/?rss",
+        "https://ascii.jp/elem/000/004/404/4404708/?rss",
+        "https://ascii.jp/elem/000/004/404/4404712/?rss",
+        "https://ascii.jp/elem/000/004/404/4404711/?rss",
+        "https://ascii.jp/elem/000/004/404/4404709/?rss",
+        "https://ascii.jp/elem/000/004/404/4404710/?rss",
+        "https://ascii.jp/elem/000/004/404/4404706/?rss",
+        "https://ascii.jp/elem/000/004/404/4404707/?rss"
       ]
     },
     "pcwatch": {
@@ -504,5 +512,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-25T04:00:28.246069"
+  "updated_at": "2026-05-25T04:15:20.535639"
 }
