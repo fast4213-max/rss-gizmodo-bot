@@ -35,12 +35,21 @@ FEEDS = [
         "default_author": "ITmedia NEWS",
     },
     {
-        "id": "ascii",
-        "url": "https://ascii.jp/rss.xml",
+        "id": "ascii_digital",
+        "url": "https://ascii.jp/digital/rss.xml",
         "webhook_env": "DISCORD_WEBHOOK_ASCII",
-        "bot_name": "ASCII.jp 新着BOT",
+        "bot_name": "ASCII デジタル 新着BOT",
         "favicon": "https://ascii.jp/favicon.ico",
-        "color": 0xE95504,  # ASCIIオレンジ
+        "color": 0xE95504,
+        "default_author": "ASCII.jp",
+    },
+    {
+        "id": "ascii_pc",
+        "url": "https://ascii.jp/pc/rss.xml",
+        "webhook_env": "DISCORD_WEBHOOK_ASCII",
+        "bot_name": "ASCII PC 新着BOT",
+        "favicon": "https://ascii.jp/favicon.ico",
+        "color": 0xE95504,
         "default_author": "ASCII.jp",
     },
     {
