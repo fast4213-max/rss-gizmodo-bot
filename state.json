@@ -188,7 +188,8 @@
         "https://www.itmedia.co.jp/news/articles/2605/25/news086.html",
         "https://www.itmedia.co.jp/news/articles/2605/25/news089.html",
         "https://www.itmedia.co.jp/news/articles/2605/25/news094.html",
-        "https://www.itmedia.co.jp/news/articles/2605/25/news097.html"
+        "https://www.itmedia.co.jp/news/articles/2605/25/news097.html",
+        "https://www.itmedia.co.jp/news/articles/2605/25/news102.html"
       ]
     },
     "ascii": {
@@ -468,7 +469,17 @@
         "https://ascii.jp/elem/000/004/403/4403809/?rss",
         "https://ascii.jp/elem/000/004/404/4404788/?rss",
         "https://ascii.jp/elem/000/004/404/4404793/?rss",
-        "https://ascii.jp/elem/000/004/404/4404803/?rss"
+        "https://ascii.jp/elem/000/004/404/4404803/?rss",
+        "https://ascii.jp/elem/000/004/404/4404829/?rss",
+        "https://ascii.jp/elem/000/004/404/4404828/?rss",
+        "https://ascii.jp/elem/000/004/404/4404827/?rss",
+        "https://ascii.jp/elem/000/004/404/4404826/?rss",
+        "https://ascii.jp/elem/000/004/404/4404813/?rss",
+        "https://ascii.jp/elem/000/004/404/4404825/?rss",
+        "https://ascii.jp/elem/000/004/404/4404824/?rss",
+        "https://ascii.jp/elem/000/004/404/4404812/?rss",
+        "https://ascii.jp/elem/000/004/404/4404819/?rss",
+        "https://ascii.jp/elem/000/004/404/4404811/?rss"
       ]
     },
     "pcwatch": {
@@ -562,5 +573,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-25T06:45:20.131345"
+  "updated_at": "2026-05-25T07:00:33.273144"
 }
