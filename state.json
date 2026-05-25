@@ -120,7 +120,8 @@
         "https://www.gizmodo.jp/article/asus-rog-nuc-16-price-and-spec-configurations/",
         "https://www.gizmodo.jp/article/leaks-suggest-garmins-first-whoop-competitor-has-a-price-that-will-make-you-cry/",
         "https://www.gizmodo.jp/article/googlebooks-are-chromebooks-that-want-to-be-macbooks/",
-        "https://www.gizmodo.jp/article/8b8b6abe-0699-4557-938a-b51369f9b49d/"
+        "https://www.gizmodo.jp/article/8b8b6abe-0699-4557-938a-b51369f9b49d/",
+        "https://www.gizmodo.jp/article/317114/"
       ]
     },
     "itmedia": {
@@ -462,7 +463,10 @@
         "https://ascii.jp/elem/000/004/404/4404798/?rss",
         "https://ascii.jp/elem/000/004/404/4404795/?rss",
         "https://ascii.jp/elem/000/004/404/4404796/?rss",
-        "https://ascii.jp/elem/000/004/404/4404792/?rss"
+        "https://ascii.jp/elem/000/004/404/4404792/?rss",
+        "https://ascii.jp/elem/000/004/403/4403809/?rss",
+        "https://ascii.jp/elem/000/004/404/4404788/?rss",
+        "https://ascii.jp/elem/000/004/404/4404793/?rss"
       ]
     },
     "pcwatch": {
@@ -502,7 +506,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111226.html",
         "https://pc.watch.impress.co.jp/docs/news/2111241.html",
         "https://pc.watch.impress.co.jp/docs/news/2111262.html",
-        "https://pc.watch.impress.co.jp/docs/news/2111282.html"
+        "https://pc.watch.impress.co.jp/docs/news/2111282.html",
+        "https://pc.watch.impress.co.jp/docs/news/2111347.html"
       ]
     },
     "ktai": {
@@ -549,9 +554,10 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2111266.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2111261.html",
         "https://k-tai.watch.impress.co.jp/docs/news/sale/2111302.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2111332.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2111332.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2111340.html"
       ]
     }
   },
-  "updated_at": "2026-05-25T06:00:30.187076"
+  "updated_at": "2026-05-25T06:15:21.597258"
 }
