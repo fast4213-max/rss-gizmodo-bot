@@ -150,7 +150,9 @@
         "https://www.gizmodo.jp/article/bobafett-the-movie/",
         "https://www.gizmodo.jp/article/313825-kl5/",
         "https://www.gizmodo.jp/article/3db02923-cb86-4c5c-af04-4ac0412383e2/",
-        "https://www.gizmodo.jp/article/amazon-panasonic-body-shaver/"
+        "https://www.gizmodo.jp/article/amazon-panasonic-body-shaver/",
+        "https://www.gizmodo.jp/article/316949/",
+        "https://www.gizmodo.jp/article/e90f3193-0cb1-422a-810c-f051b7e03048/"
       ]
     },
     "itmedia": {
@@ -242,7 +244,9 @@
         "https://www.itmedia.co.jp/news/articles/2605/26/news114.html",
         "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
         "https://www.itmedia.co.jp/news/articles/2605/26/news123.html",
-        "https://www.itmedia.co.jp/news/articles/2605/26/news125.html"
+        "https://www.itmedia.co.jp/news/articles/2605/26/news125.html",
+        "https://www.itmedia.co.jp/news/articles/2605/25/news138.html",
+        "https://www.itmedia.co.jp/news/articles/2605/26/news126.html"
       ]
     },
     "ascii": {
@@ -852,7 +856,12 @@
         "https://ascii.jp/elem/000/004/405/4405160/?rss",
         "https://ascii.jp/elem/000/004/404/4404587/?rss",
         "https://ascii.jp/elem/000/004/405/4405167/?rss",
-        "https://ascii.jp/elem/000/004/405/4405161/?rss"
+        "https://ascii.jp/elem/000/004/405/4405161/?rss",
+        "https://ascii.jp/elem/000/004/405/4405200/?rss",
+        "https://ascii.jp/elem/000/004/405/4405236/?rss",
+        "https://ascii.jp/elem/000/004/405/4405170/?rss",
+        "https://ascii.jp/elem/000/004/402/4402691/?rss",
+        "https://ascii.jp/elem/000/004/405/4405244/?rss"
       ]
     },
     "ascii_pc": {
@@ -919,5 +928,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-26T10:30:31.093474"
+  "updated_at": "2026-05-26T12:16:15.721859"
 }
