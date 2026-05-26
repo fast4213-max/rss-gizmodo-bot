@@ -749,7 +749,11 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2111775.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2111781.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2111809.html",
-        "https://k-tai.watch.impress.co.jp/docs/review/2111599.html"
+        "https://k-tai.watch.impress.co.jp/docs/review/2111599.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2110727.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/minna/2111682.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2111687.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2111714.html"
       ]
     },
     "ascii_digital": {
@@ -935,5 +939,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-26T15:00:37.866523"
+  "updated_at": "2026-05-26T15:30:30.219543"
 }
