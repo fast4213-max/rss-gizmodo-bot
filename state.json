@@ -635,7 +635,9 @@
         "https://pc.watch.impress.co.jp/docs/topic/feature/2111310.html",
         "https://pc.watch.impress.co.jp/docs/topic/enquete/2111335.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111531.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111527.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111527.html",
+        "https://pc.watch.impress.co.jp/docs/news/2111329.html",
+        "https://pc.watch.impress.co.jp/docs/news/2111549.html"
       ]
     },
     "ktai": {
@@ -772,7 +774,8 @@
         "https://ascii.jp/elem/000/004/404/4404724/?rss",
         "https://ascii.jp/elem/000/004/404/4404879/?rss",
         "https://ascii.jp/elem/000/004/404/4404908/?rss",
-        "https://ascii.jp/elem/000/004/404/4404871/?rss"
+        "https://ascii.jp/elem/000/004/404/4404871/?rss",
+        "https://ascii.jp/elem/000/004/404/4404787/?rss"
       ]
     },
     "ascii_pc": {
@@ -837,5 +840,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-26T02:00:30.828436"
+  "updated_at": "2026-05-26T02:15:20.790723"
 }
