@@ -156,7 +156,8 @@
         "https://www.gizmodo.jp/article/cannabis-and-depression/",
         "https://www.gizmodo.jp/article/oofos_ahh_original-5es/",
         "https://www.gizmodo.jp/article/bang-and-olufsen-fragment/",
-        "https://www.gizmodo.jp/article/317153/"
+        "https://www.gizmodo.jp/article/317153/",
+        "https://www.gizmodo.jp/article/torras-minimag-pro/"
       ]
     },
     "itmedia": {
@@ -689,7 +690,9 @@
         "https://pc.watch.impress.co.jp/docs/news/2111678.html",
         "https://pc.watch.impress.co.jp/docs/news/2111746.html",
         "https://pc.watch.impress.co.jp/docs/news/2111821.html",
-        "https://pc.watch.impress.co.jp/docs/news/2111926.html"
+        "https://pc.watch.impress.co.jp/docs/news/2111926.html",
+        "https://pc.watch.impress.co.jp/docs/news/2111958.html",
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111936.html"
       ]
     },
     "ktai": {
@@ -766,7 +769,9 @@
         "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2110727.html",
         "https://k-tai.watch.impress.co.jp/docs/column/minna/2111682.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2111687.html",
-        "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2111714.html"
+        "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2111714.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/sale/2111820.html",
+        "https://k-tai.watch.impress.co.jp/docs/topic/special/2109632.html"
       ]
     },
     "ascii_digital": {
@@ -889,7 +894,8 @@
         "https://ascii.jp/elem/000/004/405/4405251/?rss",
         "https://ascii.jp/serialarticles/3001030/?rss",
         "https://ascii.jp/elem/000/004/404/4404869/?rss",
-        "https://ascii.jp/elem/000/004/405/4405199/?rss"
+        "https://ascii.jp/elem/000/004/405/4405199/?rss",
+        "https://ascii.jp/elem/000/004/404/4404167/?rss"
       ]
     },
     "ascii_pc": {
@@ -957,5 +963,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-27T02:00:32.138874"
+  "updated_at": "2026-05-27T02:30:27.829944"
 }
