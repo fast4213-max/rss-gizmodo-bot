@@ -168,7 +168,8 @@
         "https://www.gizmodo.jp/article/us-china-randd/",
         "https://www.gizmodo.jp/article/three-coins-mosquitos/",
         "https://www.gizmodo.jp/article/nitori-ice-cream-machine-oki/",
-        "https://www.gizmodo.jp/article/copilot-microsoft-365-personal-family/"
+        "https://www.gizmodo.jp/article/copilot-microsoft-365-personal-family/",
+        "https://www.gizmodo.jp/article/salomon_xt-6_gore-tex-lws/"
       ]
     },
     "itmedia": {
@@ -817,7 +818,9 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2112005.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112068.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112131.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112163.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112163.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112128.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112213.html"
       ]
     },
     "ascii_digital": {
@@ -964,7 +967,11 @@
         "https://ascii.jp/elem/000/004/405/4405162/?rss",
         "https://ascii.jp/elem/000/004/403/4403283/?rss",
         "https://ascii.jp/elem/000/004/403/4403146/?rss",
-        "https://ascii.jp/elem/000/004/405/4405606/?rss"
+        "https://ascii.jp/elem/000/004/405/4405606/?rss",
+        "https://ascii.jp/elem/000/004/405/4405286/?rss",
+        "https://ascii.jp/elem/000/004/405/4405495/?rss",
+        "https://ascii.jp/elem/000/004/405/4405409/?rss",
+        "https://ascii.jp/elem/000/004/403/4403064/?rss"
       ]
     },
     "ascii_pc": {
@@ -1034,5 +1041,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-27T09:00:37.206654"
+  "updated_at": "2026-05-27T09:30:30.676405"
 }
