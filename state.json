@@ -166,7 +166,8 @@
         "https://www.gizmodo.jp/article/neanderthal-dental-treatment/",
         "https://www.gizmodo.jp/article/1a0d8c02-93c4-453c-8a36-df038d4dd3ca/",
         "https://www.gizmodo.jp/article/us-china-randd/",
-        "https://www.gizmodo.jp/article/three-coins-mosquitos/"
+        "https://www.gizmodo.jp/article/three-coins-mosquitos/",
+        "https://www.gizmodo.jp/article/nitori-ice-cream-machine-oki/"
       ]
     },
     "itmedia": {
@@ -279,7 +280,9 @@
         "https://www.itmedia.co.jp/news/articles/2605/27/news099.html",
         "https://www.itmedia.co.jp/news/articles/2605/27/news103.html",
         "https://www.itmedia.co.jp/news/articles/2605/27/news102.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news107.html"
+        "https://www.itmedia.co.jp/news/articles/2605/27/news107.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news118.html"
       ]
     },
     "ascii": {
@@ -724,7 +727,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112077.html",
         "https://pc.watch.impress.co.jp/docs/news/2112049.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112086.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112127.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112127.html",
+        "https://pc.watch.impress.co.jp/docs/news/2112143.html"
       ]
     },
     "ktai": {
@@ -807,7 +811,8 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2111988.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112005.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112068.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112131.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112131.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112163.html"
       ]
     },
     "ascii_digital": {
@@ -1017,5 +1022,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-27T07:30:27.911735"
+  "updated_at": "2026-05-27T08:00:36.691430"
 }
