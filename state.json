@@ -170,7 +170,8 @@
         "https://www.gizmodo.jp/article/nitori-ice-cream-machine-oki/",
         "https://www.gizmodo.jp/article/copilot-microsoft-365-personal-family/",
         "https://www.gizmodo.jp/article/salomon_xt-6_gore-tex-lws/",
-        "https://www.gizmodo.jp/article/shell-charger-65w/"
+        "https://www.gizmodo.jp/article/shell-charger-65w/",
+        "https://www.gizmodo.jp/article/google-workspace-icon-change/"
       ]
     },
     "itmedia": {
@@ -823,7 +824,8 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2112163.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112128.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112213.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112224.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112224.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112238.html"
       ]
     },
     "ascii_digital": {
@@ -978,7 +980,8 @@
         "https://ascii.jp/elem/000/004/405/4405663/?rss",
         "https://ascii.jp/elem/000/004/405/4405522/?rss",
         "https://ascii.jp/elem/000/004/405/4405324/?rss",
-        "https://ascii.jp/elem/000/004/405/4405266/?rss"
+        "https://ascii.jp/elem/000/004/405/4405266/?rss",
+        "https://ascii.jp/elem/000/004/405/4405671/?rss"
       ]
     },
     "ascii_pc": {
@@ -1048,5 +1051,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-27T10:30:28.835455"
+  "updated_at": "2026-05-27T11:00:36.928690"
 }
