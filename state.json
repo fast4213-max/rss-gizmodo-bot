@@ -711,7 +711,9 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112030.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112033.html",
         "https://pc.watch.impress.co.jp/docs/news/2112028.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112059.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112059.html",
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112063.html",
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112077.html"
       ]
     },
     "ktai": {
@@ -792,7 +794,8 @@
         "https://k-tai.watch.impress.co.jp/docs/news/sale/2111820.html",
         "https://k-tai.watch.impress.co.jp/docs/topic/special/2109632.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2111988.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112005.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112005.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112068.html"
       ]
     },
     "ascii_digital": {
@@ -923,7 +926,9 @@
         "https://ascii.jp/elem/000/004/405/4405248/?rss",
         "https://ascii.jp/elem/000/004/403/4403065/?rss",
         "https://ascii.jp/elem/000/004/405/4405323/?rss",
-        "https://ascii.jp/elem/000/004/405/4405379/?rss"
+        "https://ascii.jp/elem/000/004/405/4405379/?rss",
+        "https://ascii.jp/elem/000/004/405/4405411/?rss",
+        "https://ascii.jp/elem/000/004/405/4405414/?rss"
       ]
     },
     "ascii_pc": {
@@ -987,9 +992,10 @@
         "https://ascii.jp/elem/000/004/404/4404898/?rss",
         "https://ascii.jp/elem/000/004/404/4404911/?rss",
         "https://ascii.jp/elem/000/004/405/4405118/?rss",
-        "https://ascii.jp/elem/000/004/405/4405267/?rss"
+        "https://ascii.jp/elem/000/004/405/4405267/?rss",
+        "https://ascii.jp/elem/000/004/405/4405383/?rss"
       ]
     }
   },
-  "updated_at": "2026-05-27T04:30:26.981012"
+  "updated_at": "2026-05-27T05:00:35.495960"
 }
