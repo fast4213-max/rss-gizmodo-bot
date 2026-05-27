@@ -163,7 +163,9 @@
         "https://www.gizmodo.jp/article/gtm-bobafett-the-movie/",
         "https://www.gizmodo.jp/article/snaps-ar-glasses-may-launch-soon-with-a-jaw-dropping-pricing/",
         "https://www.gizmodo.jp/article/64d1fa3e-5572-4dbd-aa68-99b43d1c22c9/",
-        "https://www.gizmodo.jp/article/neanderthal-dental-treatment/"
+        "https://www.gizmodo.jp/article/neanderthal-dental-treatment/",
+        "https://www.gizmodo.jp/article/1a0d8c02-93c4-453c-8a36-df038d4dd3ca/",
+        "https://www.gizmodo.jp/article/us-china-randd/"
       ]
     },
     "itmedia": {
@@ -273,7 +275,9 @@
         "https://www.itmedia.co.jp/news/articles/2605/27/news085.html",
         "https://www.itmedia.co.jp/news/articles/2605/27/news080.html",
         "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
-        "https://www.itmedia.co.jp/news/articles/2605/27/news099.html"
+        "https://www.itmedia.co.jp/news/articles/2605/27/news099.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news103.html",
+        "https://www.itmedia.co.jp/news/articles/2605/27/news102.html"
       ]
     },
     "ascii": {
@@ -934,7 +938,8 @@
         "https://ascii.jp/elem/000/004/405/4405411/?rss",
         "https://ascii.jp/elem/000/004/405/4405414/?rss",
         "https://ascii.jp/elem/000/004/405/4405446/?rss",
-        "https://ascii.jp/elem/000/004/405/4405320/?rss"
+        "https://ascii.jp/elem/000/004/405/4405320/?rss",
+        "https://ascii.jp/elem/000/004/405/4405500/?rss"
       ]
     },
     "ascii_pc": {
@@ -999,9 +1004,10 @@
         "https://ascii.jp/elem/000/004/404/4404911/?rss",
         "https://ascii.jp/elem/000/004/405/4405118/?rss",
         "https://ascii.jp/elem/000/004/405/4405267/?rss",
-        "https://ascii.jp/elem/000/004/405/4405383/?rss"
+        "https://ascii.jp/elem/000/004/405/4405383/?rss",
+        "https://ascii.jp/elem/000/004/405/4405416/?rss"
       ]
     }
   },
-  "updated_at": "2026-05-27T06:00:34.165460"
+  "updated_at": "2026-05-27T06:30:28.455185"
 }
