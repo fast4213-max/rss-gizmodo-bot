@@ -165,7 +165,8 @@
         "https://www.gizmodo.jp/article/64d1fa3e-5572-4dbd-aa68-99b43d1c22c9/",
         "https://www.gizmodo.jp/article/neanderthal-dental-treatment/",
         "https://www.gizmodo.jp/article/1a0d8c02-93c4-453c-8a36-df038d4dd3ca/",
-        "https://www.gizmodo.jp/article/us-china-randd/"
+        "https://www.gizmodo.jp/article/us-china-randd/",
+        "https://www.gizmodo.jp/article/three-coins-mosquitos/"
       ]
     },
     "itmedia": {
@@ -722,7 +723,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112063.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112077.html",
         "https://pc.watch.impress.co.jp/docs/news/2112049.html",
-        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112086.html"
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112086.html",
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112127.html"
       ]
     },
     "ktai": {
@@ -942,7 +944,10 @@
         "https://ascii.jp/elem/000/004/405/4405446/?rss",
         "https://ascii.jp/elem/000/004/405/4405320/?rss",
         "https://ascii.jp/elem/000/004/405/4405500/?rss",
-        "https://ascii.jp/elem/000/004/405/4405532/?rss"
+        "https://ascii.jp/elem/000/004/405/4405532/?rss",
+        "https://ascii.jp/elem/000/004/405/4405415/?rss",
+        "https://ascii.jp/elem/000/004/405/4405378/?rss",
+        "https://ascii.jp/elem/000/004/405/4405119/?rss"
       ]
     },
     "ascii_pc": {
@@ -1012,5 +1017,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-27T07:00:34.414172"
+  "updated_at": "2026-05-27T07:30:27.911735"
 }
