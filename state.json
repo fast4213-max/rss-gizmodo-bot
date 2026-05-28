@@ -937,7 +937,11 @@
         "https://k-tai.watch.impress.co.jp/docs/news/2112633.html",
         "https://k-tai.watch.impress.co.jp/docs/review/2112646.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112660.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112685.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112685.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2112237.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/fujioka/2112665.html",
+        "https://k-tai.watch.impress.co.jp/docs/review/2112678.html",
+        "https://k-tai.watch.impress.co.jp/docs/news/2112687.html"
       ]
     },
     "ascii_digital": {
@@ -1208,5 +1212,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-28T15:00:35.895401"
+  "updated_at": "2026-05-28T15:30:39.558513"
 }
