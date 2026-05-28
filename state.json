@@ -198,7 +198,8 @@
         "https://www.gizmodo.jp/article/mechanical-keyboard-with-10-inch-monitor-ywz/",
         "https://www.gizmodo.jp/article/cats-ginger-tabbies-qef/",
         "https://www.gizmodo.jp/article/amazon-fire-hd-8-kids-pro/",
-        "https://www.gizmodo.jp/article/bigger-faster-stronger-3-reasons-why-starship-v3-will-be-a-spaceflight-game-changer/"
+        "https://www.gizmodo.jp/article/bigger-faster-stronger-3-reasons-why-starship-v3-will-be-a-spaceflight-game-changer/",
+        "https://www.gizmodo.jp/article/pico-projector-gizmart-5/"
       ]
     },
     "itmedia": {
@@ -337,7 +338,9 @@
         "https://www.itmedia.co.jp/news/articles/2605/28/news120.html",
         "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
         "https://www.itmedia.co.jp/news/articles/2605/28/news137.html",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news143.html"
+        "https://www.itmedia.co.jp/news/articles/2605/28/news143.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news144.html"
       ]
     },
     "ascii": {
@@ -809,7 +812,8 @@
         "https://pc.watch.impress.co.jp/docs/news/2112559.html",
         "https://pc.watch.impress.co.jp/docs/news/2112606.html",
         "https://pc.watch.impress.co.jp/docs/news/2112671.html",
-        "https://pc.watch.impress.co.jp/docs/news/2112673.html"
+        "https://pc.watch.impress.co.jp/docs/news/2112673.html",
+        "https://pc.watch.impress.co.jp/docs/news/news_flash/2112657.html"
       ]
     },
     "ktai": {
@@ -1110,7 +1114,8 @@
         "https://ascii.jp/elem/000/004/405/4405896/?rss",
         "https://ascii.jp/elem/000/004/403/4403066/?rss",
         "https://ascii.jp/elem/000/004/405/4405929/?rss",
-        "https://ascii.jp/elem/000/004/406/4406063/?rss"
+        "https://ascii.jp/elem/000/004/406/4406063/?rss",
+        "https://ascii.jp/elem/000/004/405/4405923/?rss"
       ]
     },
     "ascii_pc": {
@@ -1184,5 +1189,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-28T10:30:29.415947"
+  "updated_at": "2026-05-28T11:00:37.167297"
 }
