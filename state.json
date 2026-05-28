@@ -186,7 +186,8 @@
         "https://www.gizmodo.jp/article/sorry-apple-samsungs-fainting-detection-is-a-game-changer/",
         "https://www.gizmodo.jp/article/xperia-1-viii-design/",
         "https://www.gizmodo.jp/article/after-600-years-astronomers-finally-solve-the-mystery-of-the-missing-guest-star-nhd/",
-        "https://www.gizmodo.jp/article/monika-bielskyte-interview/"
+        "https://www.gizmodo.jp/article/monika-bielskyte-interview/",
+        "https://www.gizmodo.jp/article/soto-steam-rice-cooker-itadaki/"
       ]
     },
     "itmedia": {
@@ -314,7 +315,8 @@
         "https://www.itmedia.co.jp/news/articles/2605/28/news091.html",
         "https://www.itmedia.co.jp/news/articles/2605/28/news093.html",
         "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
-        "https://www.itmedia.co.jp/news/articles/2605/28/news098.html"
+        "https://www.itmedia.co.jp/news/articles/2605/28/news098.html",
+        "https://www.itmedia.co.jp/news/articles/2605/28/news102.html"
       ]
     },
     "ascii": {
@@ -777,7 +779,8 @@
         "https://pc.watch.impress.co.jp/docs/news/2112387.html",
         "https://pc.watch.impress.co.jp/docs/news/2112388.html",
         "https://pc.watch.impress.co.jp/docs/news/2112299.html",
-        "https://pc.watch.impress.co.jp/docs/column/semicon/2112433.html"
+        "https://pc.watch.impress.co.jp/docs/column/semicon/2112433.html",
+        "https://pc.watch.impress.co.jp/docs/news/yajiuma/2112409.html"
       ]
     },
     "ktai": {
@@ -1047,7 +1050,8 @@
         "https://ascii.jp/elem/000/004/404/4404193/?rss",
         "https://ascii.jp/serialarticles/33165/?rss",
         "https://ascii.jp/elem/000/004/405/4405688/?rss",
-        "https://ascii.jp/elem/000/004/405/4405493/?rss"
+        "https://ascii.jp/elem/000/004/405/4405493/?rss",
+        "https://ascii.jp/elem/000/004/404/4404727/?rss"
       ]
     },
     "ascii_pc": {
@@ -1118,5 +1122,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-28T03:30:28.450914"
+  "updated_at": "2026-05-28T04:00:33.493975"
 }
