@@ -216,7 +216,8 @@
         "https://www.gizmodo.jp/article/anker-soundcore-aerofit-2-pro/",
         "https://www.gizmodo.jp/article/tower_records_cd_player_yellow/",
         "https://www.gizmodo.jp/article/d357b915-0762-4334-89e1-dfa92b6d8c54/",
-        "https://www.gizmodo.jp/article/64895509-d24b-4241-b8fa-5d45a828cd3f/"
+        "https://www.gizmodo.jp/article/64895509-d24b-4241-b8fa-5d45a828cd3f/",
+        "https://www.gizmodo.jp/article/roomba-plus-515-combo/"
       ]
     },
     "itmedia": {
@@ -855,7 +856,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112772.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112793.html",
         "https://pc.watch.impress.co.jp/docs/news/2112774.html",
-        "https://pc.watch.impress.co.jp/docs/news/2112811.html"
+        "https://pc.watch.impress.co.jp/docs/news/2112811.html",
+        "https://pc.watch.impress.co.jp/docs/news/2112889.html"
       ]
     },
     "ktai": {
@@ -1202,7 +1204,8 @@
         "https://ascii.jp/elem/000/004/406/4406291/?rss",
         "https://ascii.jp/elem/000/004/406/4406296/?rss",
         "https://ascii.jp/elem/000/004/406/4406297/?rss",
-        "https://ascii.jp/elem/000/004/406/4406293/?rss"
+        "https://ascii.jp/elem/000/004/406/4406293/?rss",
+        "https://ascii.jp/elem/000/004/406/4406330/?rss"
       ]
     },
     "ascii_pc": {
@@ -1282,5 +1285,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-29T06:30:29.506154"
+  "updated_at": "2026-05-29T07:00:33.176255"
 }
