@@ -222,7 +222,8 @@
         "https://www.gizmodo.jp/article/behringer-2026-05/",
         "https://www.gizmodo.jp/article/bluetti_aora10-fku/",
         "https://www.gizmodo.jp/article/renewal_special_project_mac-mini/",
-        "https://www.gizmodo.jp/article/xiaomi-tag/"
+        "https://www.gizmodo.jp/article/xiaomi-tag/",
+        "https://www.gizmodo.jp/article/thoriumfuelirradiation/"
       ]
     },
     "itmedia": {
@@ -377,7 +378,9 @@
         "https://www.itmedia.co.jp/news/articles/2605/29/news109.html",
         "https://www.itmedia.co.jp/news/articles/2605/29/news059.html",
         "https://www.itmedia.co.jp/news/articles/2605/29/news120.html",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news123.html"
+        "https://www.itmedia.co.jp/news/articles/2605/29/news123.html",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news145.html"
       ]
     },
     "ascii": {
@@ -1237,7 +1240,10 @@
         "https://ascii.jp/elem/000/004/405/4405899/?rss",
         "https://ascii.jp/elem/000/004/406/4406325/?rss",
         "https://ascii.jp/elem/000/004/406/4406089/?rss",
-        "https://ascii.jp/elem/000/004/404/4404804/?rss"
+        "https://ascii.jp/elem/000/004/404/4404804/?rss",
+        "https://ascii.jp/elem/000/004/406/4406478/?rss",
+        "https://ascii.jp/elem/000/004/406/4406419/?rss",
+        "https://ascii.jp/elem/000/004/406/4406090/?rss"
       ]
     },
     "ascii_pc": {
@@ -1317,5 +1323,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-29T10:00:34.275735"
+  "updated_at": "2026-05-29T10:30:30.258624"
 }
