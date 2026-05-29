@@ -351,7 +351,8 @@
         "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
         "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
         "https://www.itmedia.co.jp/news/articles/2605/28/news150.html",
-        "https://www.itmedia.co.jp/news/articles/2605/29/news081.html"
+        "https://www.itmedia.co.jp/news/articles/2605/29/news081.html",
+        "https://www.itmedia.co.jp/news/articles/2605/29/news082.html"
       ]
     },
     "ascii": {
@@ -830,7 +831,8 @@
         "https://pc.watch.impress.co.jp/docs/column/macinfo/2112698.html",
         "https://pc.watch.impress.co.jp/docs/topic/feature/2112651.html",
         "https://pc.watch.impress.co.jp/docs/news/2112497.html",
-        "https://pc.watch.impress.co.jp/docs/topic/special/2112489.html"
+        "https://pc.watch.impress.co.jp/docs/topic/special/2112489.html",
+        "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112742.html"
       ]
     },
     "ktai": {
@@ -1225,5 +1227,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-29T00:30:27.231347"
+  "updated_at": "2026-05-29T01:00:29.820374"
 }
