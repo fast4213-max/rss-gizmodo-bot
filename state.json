@@ -233,7 +233,8 @@
         "https://www.gizmodo.jp/article/notace-michi/",
         "https://www.gizmodo.jp/article/amazon-sale-elecom-trucker-tzx/",
         "https://www.gizmodo.jp/article/7f2a3ef4-fcc8-4dac-9e0e-b5e95e68a56d/",
-        "https://www.gizmodo.jp/article/aarke-carbonator/"
+        "https://www.gizmodo.jp/article/aarke-carbonator/",
+        "https://www.gizmodo.jp/article/soundcore-liberty-5-pro-max/"
       ]
     },
     "itmedia": {
@@ -394,7 +395,8 @@
         "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
         "https://www.itmedia.co.jp/news/articles/2605/30/news028.html",
         "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
-        "https://www.itmedia.co.jp/news/articles/2605/30/news022.html"
+        "https://www.itmedia.co.jp/news/articles/2605/30/news022.html",
+        "https://www.itmedia.co.jp/news/articles/2605/30/news025.html"
       ]
     },
     "ascii": {
@@ -1355,5 +1357,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-30T00:00:47.976762"
+  "updated_at": "2026-05-30T00:30:28.123027"
 }
