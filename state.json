@@ -237,7 +237,8 @@
         "https://www.gizmodo.jp/article/soundcore-liberty-5-pro-max/",
         "https://www.gizmodo.jp/article/eufy-smarttrack-card-e40/",
         "https://www.gizmodo.jp/article/health-trackers-are-finally-outgrowing-their-battery-problem/",
-        "https://www.gizmodo.jp/article/these-birds-are-so-stuffed-with-plastic-you-can-hear-them-crunch-hud/"
+        "https://www.gizmodo.jp/article/these-birds-are-so-stuffed-with-plastic-you-can-hear-them-crunch-hud/",
+        "https://www.gizmodo.jp/article/openai-toy-story-sora-stopped/"
       ]
     },
     "itmedia": {
@@ -907,7 +908,8 @@
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113130.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113131.html",
         "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113132.html",
-        "https://pc.watch.impress.co.jp/docs/news/2113129.html"
+        "https://pc.watch.impress.co.jp/docs/news/2113129.html",
+        "https://pc.watch.impress.co.jp/docs/news/2113133.html"
       ]
     },
     "ktai": {
@@ -1377,5 +1379,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-30T03:30:28.459977"
+  "updated_at": "2026-05-30T04:00:31.901769"
 }
