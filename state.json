@@ -242,7 +242,9 @@
         "https://www.gizmodo.jp/article/f9e7923b-4239-4160-941c-273cffbfe8f8/",
         "https://www.gizmodo.jp/article/amazon-ugreen-magflow/",
         "https://www.gizmodo.jp/article/amazon-roomba-mini-slim/",
-        "https://www.gizmodo.jp/article/earths-core-is-leaking-gold-into-volcanoes-scientists-say-tuw/"
+        "https://www.gizmodo.jp/article/earths-core-is-leaking-gold-into-volcanoes-scientists-say-tuw/",
+        "https://www.gizmodo.jp/article/camera-bag-minimalistic/",
+        "https://www.gizmodo.jp/article/daiso-pcstand/"
       ]
     },
     "itmedia": {
@@ -1306,7 +1308,9 @@
         "https://ascii.jp/elem/000/004/406/4406384/?rss",
         "https://ascii.jp/elem/000/004/406/4406295/?rss",
         "https://ascii.jp/elem/000/004/406/4406231/?rss",
-        "https://ascii.jp/elem/000/004/406/4406145/?rss"
+        "https://ascii.jp/elem/000/004/406/4406145/?rss",
+        "https://ascii.jp/elem/000/004/405/4405256/?rss",
+        "https://ascii.jp/elem/000/004/403/4403287/?rss"
       ]
     },
     "ascii_pc": {
@@ -1390,5 +1394,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-30T08:00:31.716833"
+  "updated_at": "2026-05-30T08:30:29.731280"
 }
