@@ -945,7 +945,8 @@
         "https://pc.watch.impress.co.jp/docs/news/event/2113152.html",
         "https://pc.watch.impress.co.jp/docs/news/event/2113153.html",
         "https://pc.watch.impress.co.jp/docs/news/event/2113154.html",
-        "https://pc.watch.impress.co.jp/docs/news/event/2113155.html"
+        "https://pc.watch.impress.co.jp/docs/news/event/2113155.html",
+        "https://pc.watch.impress.co.jp/docs/news/event/2113176.html"
       ]
     },
     "ktai": {
@@ -1086,7 +1087,10 @@
         "https://k-tai.watch.impress.co.jp/docs/review/2113052.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112905.html",
         "https://k-tai.watch.impress.co.jp/docs/news/2112969.html",
-        "https://k-tai.watch.impress.co.jp/docs/news/2112882.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2112882.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/stapa/2112498.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/minna/2112578.html",
+        "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2112908.html"
       ]
     },
     "ascii_digital": {
@@ -1449,5 +1453,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-31T15:00:31.647511"
+  "updated_at": "2026-05-31T15:30:26.891110"
 }
