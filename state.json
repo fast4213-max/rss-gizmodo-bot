@@ -1325,7 +1325,8 @@
         "https://ascii.jp/elem/000/004/406/4406565/?rss",
         "https://ascii.jp/elem/000/004/406/4406191/?rss",
         "https://ascii.jp/elem/000/004/404/4404569/?rss",
-        "https://ascii.jp/elem/000/004/406/4406236/?rss"
+        "https://ascii.jp/elem/000/004/406/4406236/?rss",
+        "https://ascii.jp/elem/000/004/406/4406552/?rss"
       ]
     },
     "ascii_pc": {
@@ -1409,5 +1410,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-30T23:30:27.678231"
+  "updated_at": "2026-05-31T00:00:35.944867"
 }
