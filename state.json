@@ -261,7 +261,8 @@
         "https://www.gizmodo.jp/article/amazon-anker-nano-docking-station/",
         "https://www.gizmodo.jp/article/anker-prime-thunderbolt-5-dock-ono/",
         "https://www.gizmodo.jp/article/amazon-re-de-pot-re-de-kettle/",
-        "https://www.gizmodo.jp/article/handy_fan_summary/"
+        "https://www.gizmodo.jp/article/handy_fan_summary/",
+        "https://www.gizmodo.jp/article/amazon-xbox-controller/"
       ]
     },
     "itmedia": {
@@ -1358,7 +1359,8 @@
         "https://ascii.jp/elem/000/004/406/4406334/?rss",
         "https://ascii.jp/elem/000/004/406/4406228/?rss",
         "https://ascii.jp/elem/000/004/406/4406613/?rss",
-        "https://ascii.jp/elem/000/004/404/4404595/?rss"
+        "https://ascii.jp/elem/000/004/404/4404595/?rss",
+        "https://ascii.jp/elem/000/004/406/4406324/?rss"
       ]
     },
     "ascii_pc": {
@@ -1444,5 +1446,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-31T11:00:30.842122"
+  "updated_at": "2026-05-31T11:30:29.427967"
 }
