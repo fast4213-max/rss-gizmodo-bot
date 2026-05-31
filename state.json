@@ -258,7 +258,9 @@
         "https://www.gizmodo.jp/article/on_cloud_6_wp-mvx/",
         "https://www.gizmodo.jp/article/amazon-olight-imini2-01/",
         "https://www.gizmodo.jp/article/tower_rings_roomie/",
-        "https://www.gizmodo.jp/article/amazon-anker-nano-docking-station/"
+        "https://www.gizmodo.jp/article/amazon-anker-nano-docking-station/",
+        "https://www.gizmodo.jp/article/anker-prime-thunderbolt-5-dock-ono/",
+        "https://www.gizmodo.jp/article/amazon-re-de-pot-re-de-kettle/"
       ]
     },
     "itmedia": {
@@ -1353,7 +1355,8 @@
         "https://ascii.jp/elem/000/004/406/4406569/?rss",
         "https://ascii.jp/elem/000/004/406/4406388/?rss",
         "https://ascii.jp/elem/000/004/406/4406334/?rss",
-        "https://ascii.jp/elem/000/004/406/4406228/?rss"
+        "https://ascii.jp/elem/000/004/406/4406228/?rss",
+        "https://ascii.jp/elem/000/004/406/4406613/?rss"
       ]
     },
     "ascii_pc": {
@@ -1439,5 +1442,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-31T08:30:30.574245"
+  "updated_at": "2026-05-31T09:00:30.968127"
 }
